@@ -19,5 +19,9 @@ public class DemoTest {
 	public void case14(){
 		System.out.println("Case 14 Completed");
 	}
+	
+	public void case16(){
+		System.out.println("Case 16 Completed");
+	}
 
 }
