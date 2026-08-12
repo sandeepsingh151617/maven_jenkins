@@ -16,7 +16,8 @@ public class SampleTest {
 		System.out.println("Case 3 completed");
 	}
 
-	public void case4() {
-		System.out.println("Case 4 completed");
+	
+	public void case44() {
+		System.out.println("Case 44 completed");
 	}
 }
