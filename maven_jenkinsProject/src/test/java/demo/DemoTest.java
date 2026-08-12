@@ -25,7 +25,19 @@ public class DemoTest {
 	}
 	@Test
 	public void case17(){
-		System.out.println("Case 17 COmpleted")
+		System.out.println("Case 17 COmpleted");
+	}
+	
+	public void case18(){
+		System.out.println("Case 17 COmpleted");
+	}
+	
+	public void case19(){
+		System.out.println("Case 17 COmpleted");
+	}
+	
+	public void case20(){
+		System.out.println("Case 17 COmpleted");
 	}
 
 }
