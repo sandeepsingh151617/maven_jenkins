@@ -13,6 +13,7 @@ public class LoginPage {
 		driver=new ChromeDriver();
 		driver.get("https://www.flipkart.com/");
 	}
+	
 	@Test
 	public void logoutFlipkart() {
 		driver.quit();

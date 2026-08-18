@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-19T14:09:52 IST" name="Suite" finished-at="2026-04-19T14:09:52 IST" duration-ms="83">
+  <suite started-at="2026-08-12T20:08:00 IST" name="Default suite" finished-at="2026-08-12T20:08:45 IST" duration-ms="44806">
     <groups>
     </groups>
-    <test started-at="2026-04-19T14:09:52 IST" name="Test" finished-at="2026-04-19T14:09:52 IST" duration-ms="83">
-      <class name="demo.DemoTest">
-        <test-method signature="case11()[pri:0, instance:demo.DemoTest@408d971b]" started-at="2026-04-19T14:09:52 IST" name="case11" finished-at="2026-04-19T14:09:52 IST" duration-ms="16" status="PASS">
+    <test started-at="2026-08-12T20:08:00 IST" name="Default test" finished-at="2026-08-12T20:08:45 IST" duration-ms="44806">
+      <class name="demo.LoginPage">
+        <test-method signature="loginFlipkart()[pri:0, instance:demo.LoginPage@59662a0b]" started-at="2026-08-12T20:08:00 IST" name="loginFlipkart" finished-at="2026-08-12T20:08:44 IST" duration-ms="43777" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- case11 -->
-      </class> <!-- demo.DemoTest -->
-      <class name="sample.SampleTest">
-        <test-method signature="case1()[pri:0, instance:sample.SampleTest@54d9d12d]" started-at="2026-04-19T14:09:52 IST" name="case1" finished-at="2026-04-19T14:09:52 IST" duration-ms="3" status="PASS">
+        </test-method> <!-- loginFlipkart -->
+        <test-method signature="logoutFlipkart()[pri:0, instance:demo.LoginPage@59662a0b]" started-at="2026-08-12T20:08:44 IST" name="logoutFlipkart" finished-at="2026-08-12T20:08:45 IST" duration-ms="912" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- case1 -->
-        <test-method signature="case2()[pri:0, instance:sample.SampleTest@54d9d12d]" started-at="2026-04-19T14:09:52 IST" name="case2" finished-at="2026-04-19T14:09:52 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- case2 -->
-      </class> <!-- sample.SampleTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- logoutFlipkart -->
+      </class> <!-- demo.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
