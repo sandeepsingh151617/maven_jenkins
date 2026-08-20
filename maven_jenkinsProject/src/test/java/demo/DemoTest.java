@@ -27,15 +27,15 @@ public class DemoTest {
 	public void case17(){
 		System.out.println("Case 17 COmpleted");
 	}
-	
+	@Test
 	public void case18(){
 		System.out.println("Case 17 COmpleted");
 	}
-	
+	@Test
 	public void case19(){
 		System.out.println("Case 17 COmpleted");
 	}
-	
+	@Test
 	public void case20(){
 		System.out.println("Case 17 COmpleted");
 	}
